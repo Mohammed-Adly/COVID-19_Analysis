@@ -1,7 +1,7 @@
 # COVID-19 Analysis (2020)
 
 **Dashboard Preview:**
-![Covid Dashboard](dashborad_image.png)
+![Covid Dashboard](dashboard_image.png)
 🔗[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/covid_19_dashboard_17596977407930/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -85,3 +85,4 @@ The **Tableau Dashboard** visualizes the global situation for 2020:
 ## Recommendations
 - Focus more on healthcare capacity and early detection systems in regions with high fatality rates.
 - Continuous global data collection and real-time dashboards can help predict and respond faster to future - Public awareness and vaccination campaigns should target countries with rapidly rising infection trends.
+
